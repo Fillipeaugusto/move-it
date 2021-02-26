@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Inicio | move.it</title>
+        <title>Inicio | Move Yourself</title>
       </Head>
     <ExperienceBar/>
     <CountdownProvider>
